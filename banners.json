@@ -1,0 +1,24 @@
+{
+  "banners": [
+    {
+      "url": "https://raw.githubusercontent.com/rogesay/banners/main/banner_1.webp",
+      "duracion_segundos": 7,
+      "activo": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/rogesay/banners/main/banner_2.webp",
+      "duracion_segundos": 7,
+      "activo": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/rogesay/banners/main/banner_3.webp",
+      "duracion_segundos": 7,
+      "activo": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/rogesay/banners/main/banner_4.webp",
+      "duracion_segundos": 7,
+      "activo": true
+    }
+  ]
+}
